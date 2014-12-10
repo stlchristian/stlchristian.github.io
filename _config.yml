@@ -1,0 +1,17 @@
+# Site settings
+title: SLCC Tech Services
+email: techserv@stlchristian.edu
+description: > # this means to ignore newlines until "baseurl:"
+  We are the IT department at St. Louis Christian College. We provide the
+  students, faculty, and staff of SLCC with tech support and technology
+  resources to help them learn, study, and grow. Here you might find some
+  interesting information about what we're up to, or you might learn some
+  new tech tricks to show off to all your friends. Thanks for stopping by!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://stlchristian.github.io" # the base hostname & protocol for your site
+twitter_username: stlchristian
+github_username:  stlchristian
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
