@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Tech Tip] - A Healthy Dose of Skepticism"
+title: "[Tech Tip] A Healthy Dose of Skepticism"
 categories: techtip
 ---
 It seems in these digital days that everybody wants something for nothing.
@@ -78,7 +78,7 @@ website.
 One of the most popular ways to get sensitive information out of people
 is with a technique called __social engineering__. This is where an attacker
 calls or emails you posing as someone who you would normally trust. Maybe
-they tell you their name is Alex and they're the new guy in IT, and they
+they tell you their name is Casey and they're the new guy in IT, and they
 just need to double check your password.
 
 Maybe they tell you they just got hired in the admissions office for some
