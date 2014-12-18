@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+We are the IT department at St. Louis Christian College. We provide the
+students, faculty, and staff of SLCC with tech support and technology
+resources to help them learn, study, and grow.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Here you might find some interesting information about what we're up to,
+or you might learn some new tech tricks to show off to all your friends.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you need tech support, send us an email to [helpdesk [at] stlchristian [dot] edu](helpdesk@stlchristian.edu),
+and we'll get back with you as soon as we can.
+
+Thanks for stopping by!
