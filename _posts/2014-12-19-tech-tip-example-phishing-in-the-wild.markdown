@@ -89,6 +89,12 @@ particular message is ultra-sketchy.
    these small items should be sufficient enough to hammer in a final nail
    in the coffin of dear old Webmail Administrator.
    
+   As my good friend, Haley Womble stated:
+   
+   >Everything else in that scam aside, anyone who gives their eamil to
+   >a company who uses a picture of a girl in front of her laptop on her
+   >kingsize bed is CRAY.
+   
    **Reputable senders will usually have a more polished, consistent website
    that they've directed you to.**
 
